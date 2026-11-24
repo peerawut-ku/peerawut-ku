@@ -1,23 +1,34 @@
-<!-- แบนเนอร์คลื่นเคลื่อนไหวด้านบนสุด -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" />
+<!-- แบนเนอร์คลื่นสีเขียวเคลื่อนไหวด้านบนสุด -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:042f2e,50:059669,100:10b981&height=160&section=header&text=Peerawut&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<!-- ข้อความพิมพ์ดีดเคลื่อนไหว -->
+<!-- ข้อความพิมพ์ดีดเคลื่อนไหว (โทนสีเขียว) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hello+World!+Welcome+to+my+GitHub;Python+%7C+JavaScript+%7C+C%2B%2B+Developer;Always+learning+and+building+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=550&lines=Hello+World!+Welcome+to+my+GitHub;I'm+Peerawut+%7C+Software+Developer;Python+%7C+JavaScript+%7C+C%2B%2B+Developer;Always+learning+and+building+new+things" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
+### 👨‍💻 About Me
+
+Hi there! I'm **Peerawut**, a passionate developer based in **Thailand**.  
+I enjoy building software, solving problems with code, and continuously exploring new technologies.
+
+- 🔭 I’m currently working on **[ชื่อโปรเจกต์ปัจจุบัน หรือ สิ่งที่กำลังทำ]**
+- 🌱 I’m currently learning **[เทคโนโลยีที่กำลังศึกษาเพิ่มเติม เช่น Full-Stack Web, AI, Systems Programming]**
+- 💻 Skilled in **Python**, **JavaScript**, and **C++**
+- ⚡ Fun fact: **[เกร็ดเล็กๆ เกี่ยวกับตัวคุณ เช่น Coffee & Code enthusiast ☕]**
+
+---
+
 ### 🛠 Tech Stack & Tools
 
-<!-- ไอคอนแบบขยับได้และจัดเรียงสวยงาม -->
+<!-- ไอคอนแบบจัดเรียงสวยงาม -->
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,js,cpp,git,github,vscode,linux,docker&theme=dark" alt="My Skills" />
 </p>
 
-<!-- หรือหากชอบแบบปุ่มแถบยาว (Badges) พร้อมลูกเล่นสกิลเคลื่อนไหว -->
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -47,9 +58,4 @@
 </p>
 
 <!-- รูป GIF เคลื่อนไหวขนาดเล็กตกแต่งมุมขวาล่าง -->
-<img align="right" width="180" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding animation" />
-
-<br clear="both"/>
-
-<!-- แบนเนอร์คลื่นเคลื่อนไหวด้านล่างสุด -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img align="right" width="180" src="
