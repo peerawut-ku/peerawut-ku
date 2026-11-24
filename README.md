@@ -12,13 +12,15 @@
 
 ### 👨‍💻 About Me
 
-Hi there! I'm **Peerawut**, a passionate developer based in **Thailand**.  
-I enjoy building software, solving problems with code, and continuously exploring new technologies.
+Hello! I'm **Peerawut**, a passionate software developer and problem solver based in **Thailand**. 
 
-- 🔭 I’m currently working on **[ชื่อโปรเจกต์ปัจจุบัน หรือ สิ่งที่กำลังทำ]**
-- 🌱 I’m currently learning **[เทคโนโลยีที่กำลังศึกษาเพิ่มเติม เช่น Full-Stack Web, AI, Systems Programming]**
-- 💻 Skilled in **Python**, **JavaScript**, and **C++**
-- ⚡ Fun fact: **[เกร็ดเล็กๆ เกี่ยวกับตัวคุณ เช่น Coffee & Code enthusiast ☕]**
+I love turning complex ideas into clean, efficient, and reliable code. Whether it's building automation scripts and backend logic with **Python**, crafting interactive web experiences with **JavaScript**, or optimizing system performance using **C++**, I enjoy tackling challenges across different layers of software development. I'm always eager to learn new tools, collaborate on exciting projects, and continuously improve my craft.
+
+- 🔭 **Currently working on:** [ชื่อโปรเจกต์ปัจจุบัน เช่น Building full-stack web apps and automation tools]
+- 🌱 **Currently learning:** [เทคโนโลยีที่กำลังศึกษา เช่น Cloud Architecture, System Design, Modern Web Frameworks]
+- 💡 **Interests:** Software Architecture, Algorithms, Open-Source, and DevOps workflows
+- 🤝 **Looking to collaborate on:** Interesting Python, JavaScript, or C++ open-source projects
+- ⚡ **Fun fact:** [เกร็ดเล็กๆ เกี่ยวกับตัวคุณ เช่น Debugging with a cup of coffee is my favorite cardio ☕]
 
 ---
 
@@ -56,3 +58,11 @@ I enjoy building software, solving problems with code, and continuously explorin
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
+<!-- รูป GIF เคลื่อนไหวขนาดเล็กตกแต่งมุมขวาล่าง -->
+<img align="right" width="180" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding animation" />
+
+<br clear="both"/>
+
+<!-- แบนเนอร์คลื่นสีเขียวเคลื่อนไหวด้านล่างสุด -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:059669,100:042f2e&height=100&section=footer" />
