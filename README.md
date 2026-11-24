@@ -56,6 +56,3 @@ I enjoy building software, solving problems with code, and continuously explorin
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
-<!-- รูป GIF เคลื่อนไหวขนาดเล็กตกแต่งมุมขวาล่าง -->
-<img align="right" width="180" src="
