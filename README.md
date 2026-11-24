@@ -16,12 +16,11 @@ Hello! I'm **Peerawut**, a university student at **Kasetsart University, Kamphae
 
 I am deeply passionate about software development, problem-solving, and exploring how technology can create practical solutions. Alongside my academic studies, I spend my time building projects and sharpening my programming skills—from writing automation scripts and backend logic in **Python**, developing interactive web applications with **JavaScript**, to practicing algorithms and system-level programming in **C++**. I'm always excited to learn new technologies, work on real-world projects, and connect with fellow developers.
 
-- 🎓 **Education:** Studying at **Kasetsart University, Kamphaeng Saen Campus** ([ใส่สาขา/คณะของคุณ เช่น Computer Science / Computer Engineering])
-- 🔭 **Currently working on:** [ชื่อโปรเจกต์ปัจจุบัน เช่น University coursework projects & personal web applications]
-- 🌱 **Currently learning:** [เทคโนโลยีที่กำลังศึกษา เช่น Full-Stack Development, Data Structures & Algorithms, Docker]
+- 🎓 **Education:** Studying at **Kasetsart University, Kamphaeng Saen Campus** ([Computer Science])
+- 🔭 **Currently working on:** [University coursework projects & personal web applications]
+- 🌱 **Currently learning:** [Full-Stack Development, Data Structures & Algorithms, Docker]
 - 💡 **Interests:** Software Development, Problem Solving, Web Technologies, and Open-Source
 - 🤝 **Looking to collaborate on:** Student projects, hackathons, or interesting Python, JavaScript, and C++ repositories
-- ⚡ **Fun fact:** [เกร็ดเล็กๆ เกี่ยวกับตัวคุณ เช่น Powered by iced coffee and late-night coding sessions at KPS ☕]
 
 ---
 
