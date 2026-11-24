@@ -4,7 +4,7 @@
 <!-- ข้อความพิมพ์ดีดเคลื่อนไหว (โทนสีเขียว) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=550&lines=Hello+World!+Welcome+to+my+GitHub;I'm+Peerawut+%7C+Software+Developer;Python+%7C+JavaScript+%7C+C%2B%2B+Developer;Always+learning+and+building+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Peerawut;Student+at+Kasetsart+University+(KPS);Python+%7C+JavaScript+%7C+C%2B%2B+Developer;Always+learning+and+building+new+things" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,15 +12,16 @@
 
 ### 👨‍💻 About Me
 
-Hello! I'm **Peerawut**, a passionate software developer and problem solver based in **Thailand**. 
+Hello! I'm **Peerawut**, a university student at **Kasetsart University, Kamphaeng Saen Campus (KU KPS)**, Thailand. 
 
-I love turning complex ideas into clean, efficient, and reliable code. Whether it's building automation scripts and backend logic with **Python**, crafting interactive web experiences with **JavaScript**, or optimizing system performance using **C++**, I enjoy tackling challenges across different layers of software development. I'm always eager to learn new tools, collaborate on exciting projects, and continuously improve my craft.
+I am deeply passionate about software development, problem-solving, and exploring how technology can create practical solutions. Alongside my academic studies, I spend my time building projects and sharpening my programming skills—from writing automation scripts and backend logic in **Python**, developing interactive web applications with **JavaScript**, to practicing algorithms and system-level programming in **C++**. I'm always excited to learn new technologies, work on real-world projects, and connect with fellow developers.
 
-- 🔭 **Currently working on:** [ชื่อโปรเจกต์ปัจจุบัน เช่น Building full-stack web apps and automation tools]
-- 🌱 **Currently learning:** [เทคโนโลยีที่กำลังศึกษา เช่น Cloud Architecture, System Design, Modern Web Frameworks]
-- 💡 **Interests:** Software Architecture, Algorithms, Open-Source, and DevOps workflows
-- 🤝 **Looking to collaborate on:** Interesting Python, JavaScript, or C++ open-source projects
-- ⚡ **Fun fact:** [เกร็ดเล็กๆ เกี่ยวกับตัวคุณ เช่น Debugging with a cup of coffee is my favorite cardio ☕]
+- 🎓 **Education:** Studying at **Kasetsart University, Kamphaeng Saen Campus** ([ใส่สาขา/คณะของคุณ เช่น Computer Science / Computer Engineering])
+- 🔭 **Currently working on:** [ชื่อโปรเจกต์ปัจจุบัน เช่น University coursework projects & personal web applications]
+- 🌱 **Currently learning:** [เทคโนโลยีที่กำลังศึกษา เช่น Full-Stack Development, Data Structures & Algorithms, Docker]
+- 💡 **Interests:** Software Development, Problem Solving, Web Technologies, and Open-Source
+- 🤝 **Looking to collaborate on:** Student projects, hackathons, or interesting Python, JavaScript, and C++ repositories
+- ⚡ **Fun fact:** [เกร็ดเล็กๆ เกี่ยวกับตัวคุณ เช่น Powered by iced coffee and late-night coding sessions at KPS ☕]
 
 ---
 
